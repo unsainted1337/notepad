@@ -13,7 +13,7 @@ namespace notepad
 {
     public partial class Form1 : Form
     {
-        
+
 
         private string FilePath;
 
@@ -25,7 +25,7 @@ namespace notepad
         {
             InitializeComponent();
             init();
-            
+
         }
 
         public void init()
